@@ -21,7 +21,7 @@
   <view class="exp tab">
     <view class="amount">
       <text>{{exp}}</text>分</view>
-    <view class="nm">经验</view>
+    <view class="nm">经验 </view>
   </view>
 </view>
 <view class="ub">
